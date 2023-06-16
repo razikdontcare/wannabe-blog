@@ -30,11 +30,7 @@ function Post() {
         </div>
 
         <div className="py-2 prose prose-lg prose-neutral container mx-auto">
-          <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, nesciunt.</h2>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum iste, modi aliquam in voluptas cupiditate qui voluptate, vero impedit ab excepturi laudantium laborum at nobis maiores cum. Ad sit natus consequatur, esse voluptates suscipit ut quae praesentium architecto eligendi deleniti ducimus mollitia facilis unde voluptatem minima blanditiis iusto laudantium consequuntur magni qui pariatur. Quae aperiam iure fuga, animi consectetur iste expedita omnis quisquam quibusdam. Iusto rem nostrum at tempore quo nihil veniam dolorem explicabo optio. Consectetur laborum libero harum eaque, eius officiis ipsa reiciendis perferendis tempore sapiente a dolorum. Error sunt dignissimos quibusdam, rerum omnis quaerat voluptatem iure modi maiores?</p>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum iste, modi aliquam in voluptas cupiditate qui voluptate, vero impedit ab excepturi laudantium laborum at nobis maiores cum. Ad sit natus consequatur, esse voluptates suscipit ut quae praesentium architecto eligendi deleniti ducimus mollitia facilis unde voluptatem minima blanditiis iusto laudantium consequuntur magni qui pariatur. Quae aperiam iure fuga, animi consectetur iste expedita omnis quisquam quibusdam. Iusto rem nostrum at tempore quo nihil veniam dolorem explicabo optio. Consectetur laborum libero harum eaque, eius officiis ipsa reiciendis perferendis tempore sapiente a dolorum. Error sunt dignissimos quibusdam, rerum omnis quaerat voluptatem iure modi maiores?</p>
-          <blockquote>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, obcaecati eaque!</blockquote>
-          <img src="https://picsum.photos/1024" alt="" />
+          
         </div>
       </div>
     </Header>
